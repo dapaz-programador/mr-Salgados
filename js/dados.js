@@ -162,14 +162,15 @@ var MENU = {
             "name": "Peito de peru com queijo cuia",
             "dsc": "Gott's Complete Cheeseburger Kit for 8",
             "price": 7.5
-        },
+        },        
         {
             "id": "gramercy-tavern-burger-kielbasa-combo",
             "img": "./img/cardapio/coxinhas/calabresaQueijo.png",
             "name": "Calabresa com queijo",
             "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
             "price": 7.5
-        }
+        },
+        
     ],
     "sobremesas": [
         {
@@ -185,7 +186,7 @@ var MENU = {
             "name": "Docinho de coco",
             "dsc": "Jacques' World Famous Chocolate Chip Cookies - 6 Pack",
             "price": 1
-        },
+        }
 
         /*
         {
@@ -351,6 +352,14 @@ var MENU = {
             */
     ],
     "pizzas": [
+        
+        {
+            "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
+            "img": "./img/cardapio/empadas/xtudo.jpeg",
+            "name": "X-Tudo 500g",
+            "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
+            "price": 15
+        },
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
             "img": "./img/cardapio/empadas/empadas.png",
@@ -359,14 +368,6 @@ var MENU = {
             "price": 1.5
         },
 
-        
-        {
-            "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
-            "img": "./img/cardapio/coxinha/coxiXtudo.png",
-            "name": "X-Tudo 500g",
-            "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
-            "price": 15
-        },
 
         /*
         {
