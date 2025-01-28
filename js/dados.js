@@ -362,7 +362,7 @@ var MENU = {
         
         {
             "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
-            "img": "./img/cardapio/empadas/xTudo.png",
+            "img": "./img/cardapio/coxinha/coxiXtudo.png",
             "name": "X-Tudo 500g",
             "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
             "price": 15
