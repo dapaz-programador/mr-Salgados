@@ -170,6 +170,13 @@ var MENU = {
             "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
             "price": 7.5
         },
+        {
+            "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
+            "img": "./img/cardapio/empadas/xtudo.jpeg",
+            "name": "X-Tudo 500g",
+            "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
+            "price": 15
+        }
         
     ],
     "sobremesas": [
@@ -353,13 +360,7 @@ var MENU = {
     ],
     "pizzas": [
         
-        {
-            "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
-            "img": "./img/cardapio/empadas/xtudo.jpeg",
-            "name": "X-Tudo 500g",
-            "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
-            "price": 15
-        },
+       
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
             "img": "./img/cardapio/empadas/empadas.png",
