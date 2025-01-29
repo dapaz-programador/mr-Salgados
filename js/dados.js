@@ -158,11 +158,11 @@ var MENU = {
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-8",
-            "img": "./img/cardapio/coxinhas/peitoPeru2.jpeg",
+            "img": "./img/cardapio/coxinhas/peitoperuQueijo.png",
             "name": "Peito de peru com queijo cuia",
             "dsc": "Gott's Complete Cheeseburger Kit for 8",
             "price": 7.5
-        },        
+        },                
         {
             "id": "gramercy-tavern-burger-kielbasa-combo",
             "img": "./img/cardapio/coxinhas/calabresaQueijo.png",
