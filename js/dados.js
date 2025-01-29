@@ -158,7 +158,7 @@ var MENU = {
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-8",
-            "img": "./img/cardapio/coxinhas/peitoPeruQueijo.png",
+            "img": "./img/cardapio/coxinhas/peitoPeru2.jpeg",
             "name": "Peito de peru com queijo cuia",
             "dsc": "Gott's Complete Cheeseburger Kit for 8",
             "price": 7.5
