@@ -15,8 +15,8 @@
 }
 
 /* Tablets e Celulares (col) 0px a 767px */
-@media (max-width: 843px) {
-                 /* 767*/
+@media (max-width: 767px) {
+
     .no-mobile {
         display: none!important;
     }
@@ -63,7 +63,7 @@
     }
 
     .btn-yellow, .btn-white {
-        padding: 13px 23px;
+        padding: 8px 18px; /* 13px 23px  foi alterado para diminuir o tamanho dos botoes no menu carrinho*/
         font-size: 18px;
     }
 
