@@ -574,9 +574,9 @@ footer {
 .modal-full .title-produto {
     color: var(--color-black);
     font-size: 20px;
-    /*text-overflow: ellipsis;*/
-    white-space: normal;
-    /*overflow: hidden;*/
+    /*text-overflow: ellipsis;  /* */
+    white-space: normal;   /* nowrap */
+    /*overflow: hidden;   /* */
     margin-bottom: 15px;
 }
 
@@ -667,9 +667,9 @@ select.form-control {
 .title-produto-resumo {
     color: var(--color-black);
     font-size: 18px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
+   /* text-overflow: ellipsis;/* */
+    white-space: normal;/* */
+    /*overflow: hidden;/* */
     margin-bottom: 0;
 }
 
