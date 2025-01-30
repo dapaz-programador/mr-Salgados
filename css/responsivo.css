@@ -123,14 +123,17 @@
         margin-top: 0px!important;
         height: 30px!important;
         width: 100%;
-        text-align: left!important;
-        font-size: medium!important; /* linha foi adicionada para diminuir o tamanha do texto*/
+        text-align: left!important;        
+    }
+
+    .card-item .title-produto {
+        margin-bottom: 30px;
     }
 
     .price-produto {
         margin-bottom: 0px!important;
         margin-top: 0px!important;
-        font-size: 22px!important;
+        font-size: 18px!important;
     }
 
     .card-item .add-carrinho {
@@ -193,7 +196,8 @@
     }
 
     .modal-full .title-produto, .modal-full .price-produto {
-        font-size: 16px!important;
+        font-size: 14px!important;
+        white-space: pre-wrap; /* adicionado para fazer quebra de linha*/
     }
 
     .modal-full .add-numero-itens {

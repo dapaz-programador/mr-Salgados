@@ -258,11 +258,11 @@ a.navbar-brand {
 
 .card-item .title-produto {
     color: var(--color-black);
-    /*text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-    height: 40px;*/
-    margin-bottom: 0px;
+    /*text-overflow: ellipsis;*/
+    white-space: normal;
+    /*overflow: hidden;*/
+    height: 40px;
+    margin-bottom: 20px;
 }
 
 .card-item .price-produto {
@@ -574,10 +574,10 @@ footer {
 .modal-full .title-produto {
     color: var(--color-black);
     font-size: 20px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-    margin-bottom: 0;
+    /*text-overflow: ellipsis;*/
+    white-space: normal;
+    /*overflow: hidden;*/
+    margin-bottom: 15px;
 }
 
 .modal-full .price-produto {
