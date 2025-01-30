@@ -112,12 +112,19 @@
         width: 80px;
     }
 
+    .card-item .title-produto {
+
+        margin-bottom: 25px;
+
+
+    }
+
     .title-produto {
         margin-top: 0px!important;
         height: 30px!important;
         width: 100%;
         text-align: left!important;
-        font-size: 13px!important; /* linha foi adicionada para diminuir o tamanha do texto*/
+        font-size: medium!important; /* linha foi adicionada para diminuir o tamanha do texto*/
     }
 
     .price-produto {
