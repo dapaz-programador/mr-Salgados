@@ -122,6 +122,13 @@ var MENU = {
             "price": 7
         },
         {
+            "id": "goldbelly-burger-bash-pack",
+            "img": "./img/cardapio/coxinhas/frangoBacon.png",
+            "name": "Frango com Bacon",
+            "dsc": "Goldbelly \"Burger Bash\" Pack",
+            "price": 7
+        },
+        {
             "id": "le-big-matt-kit-for-6",
             "img": "./img/cardapio/coxinhas/caranguejo.png",
             "name": "Caranguejo",
@@ -149,13 +156,7 @@ var MENU = {
             "dsc": "Double Stack Burger Kit for 4",
             "price": 8
         },
-        {
-            "id": "goldbelly-burger-bash-pack",
-            "img": "./img/cardapio/coxinhas/frangoBacon.png",
-            "name": "Frango com Bacon",
-            "dsc": "Goldbelly \"Burger Bash\" Pack",
-            "price": 8
-        },
+       
         {
             "id": "burger-au-poivre-kit-4-pack",
             "img": "./img/cardapio/coxinhas/charqueQueijo.png",
@@ -292,7 +293,13 @@ var MENU = {
             "dsc": "Woodford Reserve Mint Julep Syrup",
             "price": 5
         },
-        
+        {
+            "id": "margarita-mix",
+            "img": "./img/cardapio/bebidas2/cocaKs1.jpeg",
+            "name": "Coca cola KS",
+            "dsc": "Margarita Mix",
+            "price": 5
+        },        
         {
             "id": "new-orleans-hurricane-mix",
             "img": "./img/cardapio/bebidas2/suco300.png",
