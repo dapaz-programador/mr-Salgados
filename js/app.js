@@ -16,8 +16,10 @@ cardapio.eventos = {
 
     init: () => {
         cardapio.metodos.obterItensCardapio();
-        cardapio.metodos.carregarBotaoLigar();
+        cardapio.metodos.carregarBotaoLigar();        
         cardapio.metodos.carregarBotaoReserva();
+        cardapio.metodos.carregarBotaoZap();
+        cardapio.metodos.carregarBotaoZap2();
     }
 
 }
@@ -530,7 +532,7 @@ cardapio.metodos = {
     // carrega o link do botão reserva
     carregarBotaoReserva: () => {
 
-        var texto = 'Olá! gostaria de fazer uma *encomenda*';
+        var texto = 'Olá! gostaria de fazer um *pedido?*';
 
         let encode = encodeURI(texto);
         let URL = `https://wa.me/${CELULAR_EMPRESA}?text=${encode}`;
@@ -538,6 +540,31 @@ cardapio.metodos = {
         $("#btnReserva").attr('href', URL);
 
     },
+
+    // carrega o link do botão zap
+    carregarBotaoZap: () => {
+
+        var texto = 'Olá!  gostaria de fazer um *pedido?*';
+
+        let encode = encodeURI(texto);
+        let URL = `https://wa.me/${CELULAR_EMPRESA}?text=${encode}`;
+
+        $("#btnZap").attr('href', URL);
+
+    },
+
+    // carrega o link do botão zap2
+    carregarBotaoZap2: () => {
+
+        var texto = 'Olá!  gostaria de fazer um *pedido?*';
+
+        let encode = encodeURI(texto);
+        let URL = `https://wa.me/${CELULAR_EMPRESA}?text=${encode}`;
+
+        $("#btnZap2").attr('href', URL);
+
+    },
+
 
     // carrega o botão de ligar
     carregarBotaoLigar: () => {
