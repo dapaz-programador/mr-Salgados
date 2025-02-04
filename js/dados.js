@@ -108,68 +108,71 @@ var MENU = {
             "price": 5
         },
         {
-            "id": "le-big-matt-kit-for-6",
-            "img": "./img/cardapio/coxinhas/caranguejo.png",
-            "name": "Caranguejo",
-            "dsc": "Le Big Matt Burger Kit for 6",
-            "price": 7.5
-        },
-        {
-            "id": "shake-shack-shackburger-16-pack",
-            "img": "./img/cardapio/coxinhas/camaraoCheddar.png",
-            "name": "Camarão com cheddar",
-            "dsc": "Shake Shack Shackburger® - 16 Pack",
-            "price": 7.5
-        },
-        {
-            "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
-            "img": "./img/cardapio/coxinhas/camaraoJambu.png",
-            "name": "Camarão com jambu",
-            "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
-            "price": 7.5
-        },
-        {
-            "id": "double-stack-burger-kit-for-4",
-            "img": "./img/cardapio/coxinhas/camaraoCuia.png",
-            "name": "Camarão com queijo cuia",
-            "dsc": "Double Stack Burger Kit for 4",
-            "price": 7.5
-        },
-        {
-            "id": "goldbelly-burger-bash-pack",
-            "img": "./img/cardapio/coxinhas/frangoBacon.png",
-            "name": "Frango com Bacon",
-            "dsc": "Goldbelly \"Burger Bash\" Pack",
-            "price": 7.5
-        },
-        {
-            "id": "burger-au-poivre-kit-4-pack",
-            "img": "./img/cardapio/coxinhas/charqueQueijo.png",
-            "name": "Charque com queijo",
-            "dsc": "Burger Au Poivre Kit - 4 Pack",
-            "price": 7.5
+            "id": "gramercy-tavern-burger-kielbasa-combo",
+            "img": "./img/cardapio/coxinhas/calabresaQueijo.png",
+            "name": "Calabresa com queijo",
+            "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
+            "price": 7
         },
         {
             "id": "goldbelly-burger-blend-4-lbs",
             "img": "./img/cardapio/coxinhas/carneQueijo.png",
             "name": "Carne assada com queijo",
             "dsc": "Goldbelly Burger Blend - 4 lbs.",
-            "price": 7.5
+            "price": 7
         },
+        {
+            "id": "goldbelly-burger-bash-pack",
+            "img": "./img/cardapio/coxinhas/frangoBacon.png",
+            "name": "Frango com Bacon",
+            "dsc": "Goldbelly \"Burger Bash\" Pack",
+            "price": 7
+        },
+        {
+            "id": "le-big-matt-kit-for-6",
+            "img": "./img/cardapio/coxinhas/caranguejo.png",
+            "name": "Caranguejo",
+            "dsc": "Le Big Matt Burger Kit for 6",
+            "price": 8
+        },
+        {
+            "id": "shake-shack-shackburger-16-pack",
+            "img": "./img/cardapio/coxinhas/camaraoCheddar.png",
+            "name": "Camarão com cheddar",
+            "dsc": "Shake Shack Shackburger® - 16 Pack",
+            "price": 8
+        },
+        {
+            "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
+            "img": "./img/cardapio/coxinhas/camaraoJambu.png",
+            "name": "Camarão com jambu",
+            "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
+            "price": 8
+        },
+        {
+            "id": "double-stack-burger-kit-for-4",
+            "img": "./img/cardapio/coxinhas/camaraoCuia.png",
+            "name": "Camarão com queijo cuia",
+            "dsc": "Double Stack Burger Kit for 4",
+            "price": 8
+        },
+       
+        {
+            "id": "burger-au-poivre-kit-4-pack",
+            "img": "./img/cardapio/coxinhas/charqueQueijo.png",
+            "name": "Charque com queijo",
+            "dsc": "Burger Au Poivre Kit - 4 Pack",
+            "price": 8
+        },
+        
         {
             "id": "gotts-complete-cheeseburger-kit-for-8",
             "img": "./img/cardapio/coxinhas/peitoperuQueijo.png",
             "name": "Peito peru com queijo cuia",
             "dsc": "Gott's Complete Cheeseburger Kit for 8",
-            "price": 7.5
+            "price": 8
         },                
-        {
-            "id": "gramercy-tavern-burger-kielbasa-combo",
-            "img": "./img/cardapio/coxinhas/calabresaQueijo.png",
-            "name": "Calabresa com queijo",
-            "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
-            "price": 7.5
-        },
+        
         {
             "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
             "img": "./img/cardapio/empadas/xtudo.jpeg",
@@ -290,7 +293,13 @@ var MENU = {
             "dsc": "Woodford Reserve Mint Julep Syrup",
             "price": 5
         },
-        
+        {
+            "id": "margarita-mix",
+            "img": "./img/cardapio/bebidas2/cocaKs1.jpeg",
+            "name": "Coca cola KS",
+            "dsc": "Margarita Mix",
+            "price": 5
+        },        
         {
             "id": "new-orleans-hurricane-mix",
             "img": "./img/cardapio/bebidas2/suco300.png",
