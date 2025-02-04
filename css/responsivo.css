@@ -64,7 +64,7 @@
 
     .btn-yellow, .btn-white {
         padding: 6px 10px; /* 13px 23px  foi alterado para diminuir o tamanho dos botoes no menu carrinho*/
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .btn-icon-left span.icon-left {
